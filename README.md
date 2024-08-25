@@ -1,2 +1,2 @@
-# Amazon-clone
-Amazon-clone
+# portfolio1
+this is portfolio
